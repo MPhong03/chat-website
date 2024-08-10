@@ -1,0 +1,22 @@
+{
+  "name": "phony-messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MPhong03/chat-website.git"
+  },
+  "author": "Mnh Phng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MPhong03/chat-website/issues"
+  },
+  "homepage": "https://github.com/MPhong03/chat-website#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
